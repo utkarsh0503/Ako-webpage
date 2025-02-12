@@ -66,8 +66,8 @@ function navAnimation() {
         let tl = gsap.timeline()
 
         tl.to("#nav-bottom", {
-            height: "21vh",
-            duration: 0.5
+            height: "0vh",
+            duration: 0
         })
         tl.to(".nav-part2 h5", {
             display: "block",
