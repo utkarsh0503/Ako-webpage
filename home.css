@@ -108,7 +108,7 @@ nav button svg {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    position: relative;
+    position: relative; 
 }
 
 #page9 video {
