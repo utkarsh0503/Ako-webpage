@@ -131,9 +131,9 @@ nav button svg {
 }
 
 #page1 {
-    height: 80vh;
+    height: 76vh;
     width: 100%;
-    background-image: url('pexels-googledeepmind-17483907.jpg');
+    background-image: url('pexels-ron-lach-9783353.jpg');
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -165,9 +165,9 @@ nav button svg {
     text-align: center;
     font-weight: 400;
     margin-top: 3vh;
-    font-size: 1vw;
+    font-size: 2vw;
     color: #fff;
-    margin-bottom: 9%;
+    margin-bottom: 2%;
 
 }
 
@@ -856,7 +856,7 @@ summary::marker {
 }
 
 #page10 {
-    min-height: 100vh;
+    min-height: 80vh;
     width: 100%;
     /* background-color: #111; */
     background-color: #fff;
@@ -872,6 +872,7 @@ summary::marker {
     padding-bottom: 10vh;
     border-bottom: 1px solid #000000;
     text-align: center;
+    margin-bottom: 20%;
     
 }
 
